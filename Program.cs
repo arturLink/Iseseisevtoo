@@ -2,7 +2,7 @@
 
 namespace Iseseisevtöö
 {
-    class Program
+    class task1
     {
         static void Main(string[] args)
         {
@@ -13,6 +13,13 @@ namespace Iseseisevtöö
             int n2 = min_value + numbers[0];
             int answer = n1 - n2;
             Console.WriteLine(answer);
+        }
+    }
+
+    class task2
+    {
+        static void Main(string[] args)
+        {
 
         }
     }
