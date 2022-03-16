@@ -22,8 +22,8 @@ namespace Iseseisevtöö
             //TASK1
 
             //TASK2
-            //int[] array = { -12, -99, 9, 122, 170, 50 };
-            //int count = array.Count(x => x > 0 && x < 125);
+            //int[] numbers = { -12, -99, 9, 122, 170, 50 };
+            //int count = numbers.Count(x => x > 0 && x < 125);
             //Console.WriteLine(count);
             //TASK2
 
